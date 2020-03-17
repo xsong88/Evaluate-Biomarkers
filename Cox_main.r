@@ -37,7 +37,7 @@ method.name <- c("ideal", "naive", "CondScore")
 
 n.cov <- 3
 iter.max <- 100
-L.c <- 4
+L.c <- 5
 
 
 set.seed(342, kind = "L'Ecuyer-CMRG")
